@@ -5,4 +5,8 @@ multilingual = false
 src = "src"
 title = "Tutoriales Cuba Bitcoin"
 
+[output.html]
+git-repository-url = "https://github.com/ProyectoCubaBitcoin/Tutoriales"
+edit-url-template = "https://github.com/ProyectoCubaBitcoin/Tutoriales/edit/main/{path}"
+
 
