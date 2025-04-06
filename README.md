@@ -24,8 +24,9 @@ cargo install mdbook
 ### Pasos para contribuir
 
 1. **Haz un fork** de este repositorio y clónalo en tu computadora.
-2. Agrega tu tutorial en la carpeta `src` como un archivo `.md`.
-3. Actualiza el archivo `SUMMARY.md` para incluir tu nuevo tutorial en el índice.
-4. Envía un *pull request* con tus cambios.
+2. Crea una nueva rama para tus cambios (no trabajes directamente en la rama main).
+3. Agrega tu tutorial en la carpeta `src` como un archivo `.md`.
+4. Actualiza el archivo `SUMMARY.md` para incluir tu nuevo tutorial en el índice.
+5. Envía un *pull request* con tus cambios.
 
 Si tienes dudas o necesitas ayuda, puedes abrir un *issue* o escribirnos.
