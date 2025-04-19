@@ -128,7 +128,8 @@ Para empezar a aceptar pagos en tu tienda, es necesario configurar una wallet o 
 La comunidad **Cuba Bitcoin** ofrece una instancia de [**LNbits**](https://lnbits.cubabitcoin.org)  
 donde puedes recibir pagos fácilmente a través de Lightning Network y conectarlo a tu tienda en BTCPay Server.
 
-Si tienes dudas sobre cómo crear tu cuenta en LNbits, puedes consultar el siguiente tutorial: [https://t.me/Cuba_Bitcoin/1/61965](https://t.me/Cuba_Bitcoin/1/61965)  
+Si tienes dudas sobre cómo crear tu cuenta en LNbits, puedes consultar el siguiente tutorial: [https://cuba-bitcoin.github.io/tutoriales/lnbits.html](https://cuba-bitcoin.github.io/tutoriales/lnbits.html)  
+
 Si ya dominas el proceso, sigamos adelante.
 
 Una vez que hayas ingresado a tu cuenta en **LNbits**, dirígete a la sección de **Extensions** y activa **LndHub**.
