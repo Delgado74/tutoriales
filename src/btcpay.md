@@ -45,7 +45,7 @@ Como respuesta, Nicolas Dorier escribió en Twitter (actual X):
 
 Con esa motivación, comenzó a desarrollar BTCPay Server como una alternativa completamente descentralizada y de código abierto. En poco tiempo, el proyecto ganó el apoyo de la comunidad de Bitcoin y se convirtió en la solución preferida para procesar pagos.
 
-![btcpay1](./assets/images/btcpay1.png)
+![btcpay1](./assets/images/btcpay/btcpay1.png)
 
 **Post original:** [https://x.com/NicolasDorier/status/898378514256207872](https://x.com/NicolasDorier/status/898378514256207872)
 
@@ -75,7 +75,7 @@ Para comenzar a recibir pagos en Bitcoin con BTCPay Server, primero necesitas cr
    [https://btcpay.cubabitcoin.org](https://btcpay.cubabitcoin.org)
 2. En la página principal, haz clic en **Registrarse** o **Sign Up**.
 
-![btcpay2](./assets/images/btcpay2.png)
+![btcpay2](./assets/images/btcpay/btcpay2.png)
 
 3. Completa los campos solicitados:
    - **Correo electrónico** (se usará para gestionar tu cuenta).
@@ -101,17 +101,17 @@ Una vez que has creado tu cuenta en BTCPay Server, el siguiente paso es configur
 
 Tu tienda ha sido creada.
 
-![btcpay4](./assets/images/btcpay4.png)
+![btcpay4](./assets/images/btcpay/btcpay4.png)
 
 **Opciones de precios**
 
 Si prefieres gestionar los precios de tus productos en **USD**, puedes seleccionar esta configuración.
 
-![btcpay5](./assets/images/btcpay5.png)
+![btcpay5](./assets/images/btcpay/btcpay5.png)
 
 Si deseas establecer los precios en **CUP**, te recomendamos esta opción para mayor precisión en el contexto cubano.
 
-![btcpay6](./assets/images/btcpay6.png)
+![btcpay6](./assets/images/btcpay/btcpay6.png)
 
 Ahora que tu tienda está configurada, en los siguientes capítulos aprenderás a integrar métodos de pago y recibirlos en Bitcoin y Lightning Network.
 
@@ -134,27 +134,27 @@ Si ya dominas el proceso, sigamos adelante.
 
 Una vez que hayas ingresado a tu cuenta en **LNbits**, dirígete a la sección de **Extensions** y activa **LndHub**.
 
-![btcpay7](./assets/images/btcpay7.png)
+![btcpay7](./assets/images/btcpay/btcpay7.png)
 
 Una vez en **LndHub**, selecciona la billetera en la que recibirás los pagos y haz clic en **COPY LNDHUB ADMIN URL** para copiar el contenido.
 
-![btcpay9](./assets/images/btcpay9.png)
+![btcpay9](./assets/images/btcpay/btcpay9.png)
 
 Regresa a **BTCPay Server** y, en el **Dashboard**, selecciona **Set up a Lightning node** para comenzar la configuración.
 
-![btcpay10](./assets/images/btcpay10.png)
+![btcpay10](./assets/images/btcpay/btcpay10.png)
 
 Pega el contenido que copiaste de la extensión **LndHub** en el campo debajo de **Connection configuration for your custom Lightning node**.
 
-![btcpay11](./assets/images/btcpay11.png)
+![btcpay11](./assets/images/btcpay/btcpay11.png)
 
 Selecciona **Test connection** y, si ves el mensaje **"Connection to the Lightning node successful..."**, significa que la conexión se ha realizado correctamente.
 
-![btcpay12](./assets/images/btcpay12.png)
+![btcpay12](./assets/images/btcpay/btcpay12.png)
 
 Selecciona **Save** en la esquina inferior y tienes la tienda lista y configurada para recibir pagos.
 
-![btcpay14](./assets/images/btcpay14.png)
+![btcpay14](./assets/images/btcpay/btcpay14.png)
 
 En la instancia de BTCPay Server de **Cuba Bitcoin**, tienes la libertad de elegir el método de integración que mejor se adapte a tus necesidades. Usar [**LNbits**](https://lnbits.cubabitcoin.org) de Cuba Bitcoin te ofrece una opción enfocada en las necesidades de la comunidad, pero siempre es recomendable explorar y hacer tu propia investigación para encontrar lo que mejor funcione para ti.
 
@@ -170,38 +170,38 @@ Este capítulo guiará a los usuarios en el proceso de crear una tienda en BTCPa
    Por ejemplo: `Alice Shop Havana`.
    - Haz clic en **Create** para crear tu Punto de Venta.
 
-![btcpay16](./assets/images/btcpay16.png)
+![btcpay16](./assets/images/btcpay/btcpay16.png)
 
-![btcpay17](./assets/images/btcpay17.png)
+![btcpay17](./assets/images/btcpay/btcpay17.png)
 
 Una vez creado, deberías ver algo similar a la siguiente pantalla.
 
-![btcpay18](./assets/images/btcpay18.png)
+![btcpay18](./assets/images/btcpay/btcpay18.png)
 
 3. Verás la opción **Choose Point of Sale**.  
    Para este ejemplo, seleccionaremos **Product list with card**, aunque puedes cambiar esto más adelante según tus preferencias.
 
-![btcpay19](./assets/images/btcpay19.png)
+![btcpay19](./assets/images/btcpay/btcpay19.png)
 
 4. En el campo **Description**, puedes agregar una breve descripción de tu tienda o de los productos ofrecidos.  
    Esto es útil para compartir información adicional con los clientes (opcional).
 
-![btcpay20](./assets/images/btcpay20.png)
+![btcpay20](./assets/images/btcpay/btcpay20.png)
 
 **Gestión del inventario**
 
 - En **Update Point of Sale**, puedes gestionar el inventario de tu tienda.
 - Por defecto, BTCPay Server incluye un inventario de ejemplo (como una tienda de té).
 
-![btcpay21](./assets/images/btcpay21.png)
+![btcpay21](./assets/images/btcpay/btcpay21.png)
 
 Se puede **agregar**, **editar** o **eliminar** productos:
 
 Para **eliminar** un producto: haz clic en la **X** al lado del producto.
-![btcpay22](./assets/images/btcpay22.png)
+![btcpay22](./assets/images/btcpay/btcpay22.png)
 
 Para **agregar** un producto nuevo: haz clic en **Add item**.
-![btcpay23](./assets/images/btcpay23.png)
+![btcpay23](./assets/images/btcpay/btcpay23.png)
 
 **Al agregar un producto, encontrarás los siguientes campos:**
 
@@ -218,7 +218,7 @@ Para **agregar** un producto nuevo: haz clic en **Add item**.
 - **Texto del botón de compra**: Personaliza con mensajes como “Comprar ahora”, “Donar”, etc.
 - **Habilitar/Deshabilitar**: Controla si el producto está visible o no en tu tienda.
 
-![btcpay24](./assets/images/btcpay24.png)
+![btcpay24](./assets/images/btcpay/btcpay24.png)
 
 Ejemplo:
 - Producto: **Guayabera con el logo de Bitcoin**
@@ -226,18 +226,18 @@ Ejemplo:
 - Precio: `10 USD`
 - Inventario: `20 unidades`
 
-![btcpay25](./assets/images/btcpay25.png)
-![btcpay26](./assets/images/btcpay26.png)
+![btcpay25](./assets/images/btcpay/btcpay25.png)
+![btcpay26](./assets/images/btcpay/btcpay26.png)
 
 Cuando termines de agregar un producto, haz clic en **Apply**.
 
-![btcpay27](./assets/images/btcpay27.png)
+![btcpay27](./assets/images/btcpay/btcpay27.png)
 
 Puedes seguir agregando más productos o servicios. Cuando termines, selecciona **Save** para guardar el estado de tu tienda.
 
-![btcpay28](./assets/images/btcpay28.png)
+![btcpay28](./assets/images/btcpay/btcpay28.png)
 
-![btcpay29](./assets/images/btcpay29.png)
+![btcpay29](./assets/images/btcpay/btcpay29.png)
 
 **Solicitar datos de envío**
 
@@ -248,15 +248,15 @@ Si tu tienda ofrece envíos a domicilio, puedes pedir los datos del destinatario
 2. Selecciona **Request shipping address**.
 3. Haz clic en **Save** (en la parte superior).
 
-![btcpay30](./assets/images/btcpay30.png)  
+![btcpay30](./assets/images/btcpay/btcpay30.png)  
 
 **Visualizar tu tienda**
 
 Haz clic en **View** para ver cómo luce tu tienda.
 
-![btcpay29](./assets/images/btcpay29.png)  
+![btcpay29](./assets/images/btcpay/btcpay29.png)  
 
-![btcpay32](./assets/images/btcpay32.png)  
+![btcpay32](./assets/images/btcpay/btcpay32.png)  
 
 **Realizar una compra**
 
@@ -265,20 +265,20 @@ Haz clic en **View** para ver cómo luce tu tienda.
    - Taza de Café Maxi de **LA ISLA BTC**
    - T Shirt Multicolor
 
-![btcpay33](./assets/images/btcpay33.png)  
+![btcpay33](./assets/images/btcpay/btcpay33.png)  
 
 2. Haz clic en **Pay** para procesar el pago.
 
 3. Si seleccionaste previamente solicitar datos de envío, verás un formulario a completar.
 
-![btcpay34](./assets/images/btcpay34.png)
+![btcpay34](./assets/images/btcpay/btcpay34.png)
 
 4. Realiza el pago usando **Bitcoin Lightning** y ¡listo!
 
 ¡Has hecho tu primera venta en BTCPay Server!
 
-![btcpay35](./assets/images/btcpay35.png)
-![btcpay36](./assets/images/btcpay36.png)
+![btcpay35](./assets/images/btcpay/btcpay35.png)
+![btcpay36](./assets/images/btcpay/btcpay36.png)
 
 Puedes acceder a la tienda creada por el siguiente enlace:
 
@@ -294,11 +294,11 @@ Como buen vendedor, tú podrás ofrecer lo que desea sin necesidad de involucrar
 
 1. Ve al menú **PLUGINS** y selecciona **FixedFloat**.
 
-![btcpay37](./assets/images/btcpay37.png)
+![btcpay37](./assets/images/btcpay/btcpay37.png)
 
 2. Activa la opción **Enable**.
 
-![btcpay38](./assets/images/btcpay38.png)
+![btcpay38](./assets/images/btcpay/btcpay38.png)
 
 3. Haz clic en **Save** para guardar los cambios.
 
@@ -308,7 +308,7 @@ Ahora, al momento de pagar en tu tienda, los clientes verán dos opciones:
 - Pagar directamente con una **invoice de Lightning**.
 - Usar la nueva alternativa **FixedFloat**.
 
-![btcpay39](./assets/images/btcpay39.png)
+![btcpay39](./assets/images/btcpay/btcpay39.png)
 
 El proceso es simple:
 Nos dirigimos a la tienda, elegimos los productos que queremos y, al momento de pagar, nos encontramos con dos opciones: pagar directamente con una invoice de Lightning o usar la nueva alternativa Fixed Float.
@@ -322,11 +322,11 @@ Si los formularios predeterminados no se ajustan a lo que necesitas, no te preoc
 1. Ve a **Settings**.
 2. Selecciona la pestaña **Form**.
 
-![btcpay40](./assets/images/btcpay40.png)
+![btcpay40](./assets/images/btcpay/btcpay40.png)
 
 3. Haz clic en **Create Form** para diseñarlo a tu gusto.
 
-![btcpay41](./assets/images/btcpay41.png)
+![btcpay41](./assets/images/btcpay/btcpay41.png)
 
 **Al agregar un campo al formulario, debes definir:**
 
@@ -335,11 +335,11 @@ Si los formularios predeterminados no se ajustan a lo que necesitas, no te preoc
 - **Name**: el nombre interno que usarás para identificar ese campo.
 - **Required field**: puedes marcarlo para que sea obligatorio.
 
-![btcpay42](./assets/images/btcpay42.png)
+![btcpay42](./assets/images/btcpay/btcpay42.png)
 
 Puedes añadir todos los campos que necesites, personalizando el formulario según las necesidades específicas de tu tienda.
 
-![btcpay43](./assets/images/btcpay43.png)
+![btcpay43](./assets/images/btcpay/btcpay43.png)
 
 **Vincular tu formulario a la tienda**
 
@@ -347,7 +347,7 @@ Puedes añadir todos los campos que necesites, personalizando el formulario seg�
 2. Selecciona la tienda a la que deseas agregar el formulario.
 3. En la sección **Checkout**, selecciona el nombre de tu formulario personalizado.
 
-![btcpay44](./assets/images/btcpay44.png)
+![btcpay44](./assets/images/btcpay/btcpay44.png)
 
 Tu tienda ahora cuenta con un formulario hecho a la medida.
 
@@ -378,14 +378,14 @@ En BTCPay Server, los roles por defecto son Owner, Manager, Employee y Guest tie
 
 Para ver los detalles de los roles en BTCPay Server, debes dirigirte a Settings y luego seleccionar Roles. Allí podrás ver los roles que tienes por defecto. Además, si necesitas personalizar los permisos, tienes la opción de Add Role, que te permite crear un rol nuevo y asignarle los permisos que consideres necesarios según las necesidades de tu tienda.
 
-![btcpay45](./assets/images/btcpay45.png)
+![btcpay45](./assets/images/btcpay/btcpay45.png)
 
 
 Para añadir roles de usuario en BTCPay Server, debes ir a Settings y luego al apartado de Users. Allí verás la opción de añadir el correo electrónico de tu empleado y asignarle el rol correspondiente. Al hacerlo, podrás darle el nivel de acceso adecuado según el rol que se le asigna, ya sea Owner, Manager, Employee u otro rol personalizado que hayas creado. Esto facilita la gestión de permisos y asegura que cada usuario tenga el acceso necesario para su función dentro de la tienda.
 
-![btcpay46](./assets/images/btcpay46.png)
+![btcpay46](./assets/images/btcpay/btcpay46.png)
 
-![btcpay47](./assets/images/btcpay47.png)
+![btcpay47](./assets/images/btcpay/btcpay47.png)
 
 ### 4.5 - Crowdfund
 
@@ -394,28 +394,28 @@ Un Crowdfund (o crowdfunding) es un método de financiamiento colectivo en el qu
 En BTCPay podemos crear nuestra propia campaña. Solo debemos dirigirnos al apartado de  
 **PLUGINS** y seleccionar **Crowdfund**.
 
-![btcpay48](./assets/images/btcpay48.png)
+![btcpay48](./assets/images/btcpay/btcpay48.png)
 
 
 En la sección **"Create a New Crowdfund"**, debemos ingresar el nombre de nuestro proyecto. Para este ejemplo, crearemos un crowdfund para un proyecto de protección animal llamado **"Un Hogar para Cada Huella"**.
 
-![btcpay49](./assets/images/btcpay49.png)
+![btcpay49](./assets/images/btcpay/btcpay49.png)
 
 Una vez creado, debemos completar los datos requeridos. **Display Title** es el título que se mostrará en la página, mientras que **Tagline** es el lema del proyecto. También podemos añadir una imagen representativa del proyecto. Además, tenemos la opción de hacer que el crowdfund sea público.
 
-![btcpay50](./assets/images/btcpay50.png)
+![btcpay50](./assets/images/btcpay/btcpay50.png)
 
 Podemos añadir una descripción a nuestro proyecto en **Description**, en la cual detallamos su propósito, los objetivos que buscamos alcanzar y el impacto que tendrá. Es importante que la descripción sea clara, inspiradora y transmita a los potenciales donantes por qué su apoyo es fundamental.
 
-![btcpay51](./assets/images/btcpay51.png)
+![btcpay51](./assets/images/btcpay/btcpay51.png)
 
 Podemos añadir **Perks** en nuestro crowdfund. Estos son una recompensa o beneficio para los donantes, como una forma de agradecer su apoyo y motivarlos a contribuir. Los perks pueden incluir productos exclusivos, menciones especiales, experiencias o cualquier incentivo relacionado con el proyecto.
 
-![btcpay52](./assets/images/btcpay52.png)
+![btcpay52](./assets/images/btcpay/btcpay52.png)
 
 En la sección de **Goal** del crowdfund, establecemos el monto objetivo **Target Amount** y la moneda en la que se recaudarán los fondos. Si lo deseamos, también podemos definir una fecha de inicio y finalización para la campaña.
 
-![btcpay53](./assets/images/btcpay53.png)
+![btcpay53](./assets/images/btcpay/btcpay53.png)
 
 En **Contributions** (Contribuciones) tenemos las siguientes opciones:
 - Ordenar los perks de contribución por popularidad.
@@ -426,11 +426,11 @@ En **Contributions** (Contribuciones) tenemos las siguientes opciones:
 **Crowdfund Behavior** (Comportamiento del Crowdfund)  
 - Contar todas las facturas creadas en la tienda como parte del objetivo.
 
-![btcpay54](./assets/images/btcpay54.png)
+![btcpay54](./assets/images/btcpay/btcpay54.png)
 
 Adicionalmente, contamos con la opción de **Checkout**, que nos permite recopilar información de los donantes si es necesario. Esto puede incluir detalles como su nombre, correo electrónico o cualquier otro dato relevante para la campaña. Esta información puede ser útil para enviar agradecimientos, actualizar información sobre el progreso del proyecto o gestionar recompensas (perks).
 
-![btcpay55](./assets/images/btcpay55.png)
+![btcpay55](./assets/images/btcpay/btcpay55.png)
 
 Y tenemos lista nuestra campaña:  
 Puedes acceder a la campaña creada por el siguiente enlace:  
@@ -438,7 +438,7 @@ Puedes acceder a la campaña creada por el siguiente enlace:
 
 **NO VAYAS A DONAR NADA, SOLO TIENE CARÁCTER EDUCATIVO**
 
-![btcpay56](./assets/images/btcpay56.png)
+![btcpay56](./assets/images/btcpay/btcpay56.png)
 
 ## 5 - Accediendo al servidor desde Cuba
 
@@ -522,7 +522,7 @@ Sígueme en Nostr:
 
 Regálame un cafecito con Lightning Network: forte11@lnbits.cubabitcoin.org
 
-![btcpay56](./assets/images/btcpay57.png)
+![btcpay56](./assets/images/btcpay/btcpay57.png)
 
 ### BTCLNAT
 
@@ -535,4 +535,4 @@ Sígueme en Nostr:
 
 Regálame un cafecito con Lightning Network: btclnat@lnbits.cubabitcoin.org
 
-![btcpay58](./assets/images/btcpay58.png)
+![btcpay58](./assets/images/btcpay/btcpay58.png)
