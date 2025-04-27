@@ -338,10 +338,6 @@ Por eso, es importante que revises regularmente la sección History de tu wallet
 Aunque el protocolo Cashu previene el doble gasto a nivel de mint, si compartes tu wallet con otras personas o usas un dispositivo que no es totalmente seguro, existe el riesgo de que te roben los tokens.  
 Es crucial que mantengas tu dispositivo protegido y nunca compartas tu seed phrase con nadie.
 
-Al pagar offline, no hay confirmación inmediata de que el vendedor esté verdaderamente “cobrando” tu token.  
-Podría haber un malentendido si la otra persona no reclama el pago.  
-Comunica con claridad el procedimiento: indícale al vendedor cómo ver y reclamar la transacción desde History, o envíale el QR junto con instrucciones.
-
 Al realizar un pago offline, no se obtiene una confirmación inmediata de que el vendedor haya recibido realmente el token.  
 Esto podría generar confusión si la otra persona no reclama el pago.  
 Para evitar malentendidos, es importante comunicar claramente el procedimiento: asegúrate de indicarle al vendedor cómo acceder y reclamar la transacción desde la sección History de su wallet, o incluso envíale el QR con instrucciones claras para que lo haga.
@@ -362,7 +358,6 @@ Muchos comerciantes venden sin verificar en su dispositivo.
 Aunque los compradores podrían intentar hacer un replace by fee a Lore Bitcoin o falsificar una prueba de pago en Berlín, en la mayoría de los casos, existen valores éticos dentro de la comunidad bitcoiner, lo que minimiza estas posibilidades.
 
 Sin embargo, nunca está de más recordar: **"No confíes, verifica."**
-
 
 ## 7 - Cómo contribuir a la comunidad
 
