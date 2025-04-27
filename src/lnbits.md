@@ -55,19 +55,19 @@ Con este servicio, la comunidad busca reducir estas barreras, permitiendo a más
 
 1. Dirígete a: [https://lnbits.cubabitcoin.org/](https://lnbits.cubabitcoin.org/)
 
-![lnbits 1](./assets/images/lnbits1.png)
+![lnbits 1](./assets/images/lnbits/lnbits1.png)
 
 2. Haz clic en la opción **REGISTER** para crear una nueva cuenta.
 
-![lnbits 2](./assets/images/lnbits2.png)
+![lnbits 2](./assets/images/lnbits/lnbits2.png)
 
 3. Completa los campos necesarios. Para este ejemplo, usaremos el nombre **Alice**.
 
-![lnbits 3](./assets/images/lnbits3.png)
+![lnbits 3](./assets/images/lnbits/lnbits3.png)
 
 4. Haz clic en **CREATE ACCOUNT** para finalizar el registro.
 
-![lnbits 4](./assets/images/lnbits4.png)
+![lnbits 4](./assets/images/lnbits/lnbits4.png)
 
 5. ¡Listo! Ya tienes tu cuenta creada en el LNbits de Cuba Bitcoin.
 
@@ -75,7 +75,7 @@ Con este servicio, la comunidad busca reducir estas barreras, permitiendo a más
 
 Vamos a desglosar las partes visibles de la interfaz de LNbits:
 
-![lnbits 5](./assets/images/lnbits5.png)
+![lnbits 5](./assets/images/lnbits/lnbits5.png)
 
 **1. Menú izquierdo superior**
 
@@ -140,13 +140,13 @@ En cuanto a seguridad, exportar tu cuenta a una app móvil ayuda a reducir el ri
 
 En el menú izquierdo inferior accedemos a la extensión **LndHub**:
 
-![lnbits 6](./assets/images/lnbits6.png)
+![lnbits 6](./assets/images/lnbits/lnbits6.png)
 
 Esta nos muestra dos opciones:
 - **LNDHUB INVOICE**: Nos permite recibir nuestros bitcoins o satoshis en una billetera, pero no nos permite transferirlos (ideal para dueños de negocios).
 - **LNDHUB ADMIN**: Nos permite recibir y enviar nuestros sats.
 
-![lnbits 7](./assets/images/lnbits7.png)
+![lnbits 7](./assets/images/lnbits/lnbits7.png)
 
 Si poseemos más de una wallet, la seleccionamos en la opción **Select Wallet**.
 
@@ -161,11 +161,11 @@ Accedemos a [**BlueWallet**](https://bluewallet.io/):
 
 1. En la opción **Añadir cartera**, seleccionamos **Añadir**.
 
-![lnbits 9](./assets/images/lnbits9.png)
+![lnbits 9](./assets/images/lnbits/lnbits9.png)
 
 2. Seleccionamos la opción **Importar cartera**.
 
-![lnbits 10](./assets/images/lnbits10.png)
+![lnbits 10](./assets/images/lnbits/lnbits10.png)
 
 3. Escaneamos el **LNDHUB INVOICE** o el **LNDHUB ADMIN**, de acuerdo al uso que le vayamos a dar… ¡y listo!
 
@@ -177,27 +177,27 @@ Accedemos a [**Zeus Wallet**](https://zeusln.com/):
 - [Google Play](https://play.google.com/store/apps/details?id=app.zeusln.zeus)
 - [Descarga directa](https://zeusln.com/zeus-v0.9.7-universal.apk)
 
-![lnbits 11](./assets/images/lnbits11.png)
+![lnbits 11](./assets/images/lnbits/lnbits11.png)
 
 1. Seleccionamos **CONFIGURACIÓN AVANZADA**.
 
-![lnbits 12](./assets/images/lnbits12.png)
+![lnbits 12](./assets/images/lnbits/lnbits12.png)
 
 2. Luego, seleccionamos **Crear o conectar un monedero**.
 
-![lnbits 13](./assets/images/lnbits13.png)
+![lnbits 13](./assets/images/lnbits/lnbits13.png)
 
 3. En la parte superior derecha, tocamos el ícono de escanear (un pequeño cuadro) y escaneamos el **LNDHUB INVOICE** o el **LNDHUB ADMIN**, de acuerdo al uso que le vayamos a dar.
 
-![lnbits 14](./assets/images/lnbits14.png)
+![lnbits 14](./assets/images/lnbits/lnbits14.png)
 
 4. Una vez escaneado, seleccionamos **GUARDAR CONFIGURACIÓN DEL MONEDERO**.
 
-![lnbits 15](./assets/images/lnbits15.png)
+![lnbits 15](./assets/images/lnbits/lnbits15.png)
 
 ¡Listo! Ya tenemos nuestra cuenta de **LNbits** cargada en **Zeus Wallet**.
 
-![lnbits 16](./assets/images/lnbits16.png)
+![lnbits 16](./assets/images/lnbits/lnbits16.png)
 
 ## 4. Crear tu propia LN Address desde el servidor
 
@@ -211,11 +211,11 @@ A diferencia de las direcciones tradicionales de **Bitcoin**, que son largas y d
 
 1. En la ventana de **Extensions**, seleccionamos **Pay Links**.
 
-![lnbits 17](./assets/images/lnbits17.png)
+![lnbits 17](./assets/images/lnbits/lnbits17.png)
 
 2. Seleccionamos **New Pay Link**.
 
-![lnbits 18](./assets/images/lnbits18.png)
+![lnbits 18](./assets/images/lnbits/lnbits18.png)
 
 3. Llenamos los campos básicos:
    - En **Wallet**, seleccionamos la billetera a utilizar.
@@ -224,21 +224,21 @@ A diferencia de las direcciones tradicionales de **Bitcoin**, que son largas y d
    - **Min**: La cantidad mínima de satoshis a aceptar.
    - **Max**: La cantidad máxima de satoshis a aceptar.
 
-![lnbits 18.1](./assets/images/lnbits18.1.png)
+![lnbits 18.1](./assets/images/lnbits/lnbits18.1.png)
 
 4. **Configuración avanzada**:
    - En **LNURL**, ponemos un número (recomendamos **300**, que es la cantidad máxima de caracteres que aceptaremos cuando las personas deseen enviarnos un mensaje enviando sats).
    - También podemos habilitar **Zaps en Nostr** marcando la opción **Enable nostr zaps**.
 
-![lnbits 19](./assets/images/lnbits19.png)
+![lnbits 19](./assets/images/lnbits/lnbits19.png)
 
 5. Luego, terminamos de crear nuestro link en la opción **CREATE PAY LINK**, obteniendo una dirección como, por ejemplo, **alice@lnbits.cubabitcoin.org**.
 
-![lnbits 21](./assets/images/lnbits21.png)
+![lnbits 21](./assets/images/lnbits/lnbits21.png)
 
 Podemos modificar en cualquier momento la configuración de nuestra **LN Address** o eliminarla.
 
-![lnbits 22](./assets/images/lnbits22.png)
+![lnbits 22](./assets/images/lnbits/lnbits22.png)
 
 ## 5. Accediendo al servicio desde Cuba
 
@@ -315,7 +315,7 @@ Cuando hayas acumulado suficientes fondos para abrir un canal de Lightning, te r
 **El objetivo debe ser siempre: ser dueño de tu propio dinero.**  
 Este servicio solo es un trampolín para alcanzar esa meta.
 
-![lnbits 23](./assets/images/lnbits23.png)
+![lnbits 23](./assets/images/lnbits/lnbits23.png)
 
 ---
 
@@ -329,4 +329,4 @@ Este servicio solo es un trampolín para alcanzar esa meta.
 ☕ **Regálame un cafecito con Lightning Network:**  
 `forte11@lnbits.cubabitcoin.org`
 
-![lnbits 24](./assets/images/lnbits24.png)
+![lnbits 24](./assets/images/lnbits/lnbits24.png)
