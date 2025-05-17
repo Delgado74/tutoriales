@@ -38,7 +38,7 @@ Una vez creada la billetera, la interfaz principal mostrará tus activos disponi
 
 Pulsa el ícono de engranaje en la parte inferior derecha para acceder a los ajustes. Aquí puedes configurar la moneda de referencia, habilitar funciones avanzadas, etc.
 
-![Ajustes de configuración](ruta/a/captura3.png)
+![Ajustes de configuración](./assets/images/aqua/ajustes.jpg)
 
 ---
 
