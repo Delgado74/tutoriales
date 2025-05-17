@@ -80,7 +80,8 @@ En los casos de Lightning y USDT en estas cadenas, AQUA realiza un **swap autom√
 - Los fondos recibidos por Lightning se convierten en **L-BTC**.
 - Los USDT recibidos en Ethereum, Tron, BSC o Polygon se convierten en **L-USDT**.
 
-![Recibir fondos](./assets/images/aqua/recibir_btc.jpg)
+![Recibir fondos](./assets/images/aqua/recibir1.jpg),
+                (./assets/images/aqua/recibir2.jpg)
 
 ---
 
