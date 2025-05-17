@@ -30,7 +30,7 @@ Al abrir la app AQUA por primera vez, verás dos opciones: **Crear billetera nue
 
 Una vez creada la billetera, la interfaz principal mostrará tus activos disponibles y su valor aproximado.
 
-![Interfaz con activos](./assts.images/aqua/iniciada.jpg)
+![Interfaz con activos](./assets.images/aqua/iniciada.jpg)
 
 ---
 
