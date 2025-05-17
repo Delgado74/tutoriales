@@ -116,4 +116,3 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 
 ---
 
-Este tutorial está en desarrollo. Si tienes sugerencias o quieres colaborar, contáctanos.
