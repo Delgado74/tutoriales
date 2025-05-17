@@ -46,7 +46,7 @@ Pulsa el ícono de engranaje en la parte inferior derecha para acceder a los aju
 
 Es muy importante hacer un respaldo de tu billetera. AQUA te mostrará una advertencia para que respaldes la frase semilla (de 12 palabras).
 
-![Respaldo de semilla](ruta/a/captura4.png)
+![Respaldo de semilla](./assets/images/aqua/backup_frase.jpg)
 
 ---
 
