@@ -54,7 +54,7 @@ Es muy importante hacer un respaldo de tu billetera. AQUA te mostrará una adver
 
 Antes de mostrarte la semilla, AQUA te brinda recomendaciones sobre cómo protegerla. Tómate este momento en serio.
 
-![Consejos para respaldar](ruta/a/captura5.png)
+![Consejos para respaldar](./assets/images/aqua/backup_frase2.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Antes de mostrarte la semilla, AQUA te brinda recomendaciones sobre cómo proteg
 
 AQUA permite intercambiar entre activos de la red Liquid, como L-BTC y L-USDT, directamente desde la app. Es una función útil si necesitas convertir tus fondos sin salir de la billetera. Actualmente, AQUA **no permite intercambiar BTC (on-chain)**, solo activos dentro de Liquid.
 
-![Intercambio entre activos](ruta/a/captura6.png)
+![Intercambio entre activos](./assets/images/aqua/intercambiables.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ En los casos de Lightning y USDT en estas cadenas, AQUA realiza un **swap autom�
 - Los fondos recibidos por Lightning se convierten en **L-BTC**.
 - Los USDT recibidos en Ethereum, Tron, BSC o Polygon se convierten en **L-USDT**.
 
-![Recibir fondos](ruta/a/captura7.png)
+![Recibir fondos](./assets/images/aqua/recibir_btc.jpg)
 
 ---
 
