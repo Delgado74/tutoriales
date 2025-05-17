@@ -22,7 +22,7 @@ AQUA es una billetera para Bitcoin y Liquid desarrollada por Jan3. Permite recib
 
 Al abrir la app AQUA por primera vez, verás dos opciones: **Crear billetera nueva** o **Restaurar billetera**. Si estás comenzando desde cero, selecciona "Crear billetera nueva".
 
-![Pantalla inicial de AQUA](ruta/a/captura1.png)
+![Pantalla inicial de AQUA](./assets/images/aqua/inicio.jpg)
 
 ---
 
