@@ -84,9 +84,6 @@ En los casos de Lightning y USDT en estas cadenas, AQUA realiza un **swap autom√
 
 ![Recibir fondos](./assets/images/aqua/recibir1.jpg)
 
-**Recibir USDT:**
-
-![Recibir USDT](./assets/images/aqua/recibir2.jpg)
 
 ---
 
