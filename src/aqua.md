@@ -104,7 +104,7 @@ Cuando envías por Lightning o en las cadenas mencionadas, AQUA realiza un **swa
 - El envío por Lightning se hace a partir de **L-BTC**.
 - El envío de USDT en Ethereum, Tron, BSC o Polygon se hace a partir de tu saldo en **L-USDT**.
 
-![Enviar fondos](ruta/a/captura12.png)
+![Enviar fondos](./assets/images/aqua/enviar1.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 - **Intercambio P2P** de activos con otros usuarios.
 - **BTC Map**, donde puedes localizar negocios que aceptan Bitcoin en tu zona.
 
-![Mercado](ruta/a/captura14.png)
+![Mercado](./assets/images/aqua/mercado.jpg)
 
 ---
 
