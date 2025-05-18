@@ -117,20 +117,16 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 
 ![Mercado](./assets/images/aqua/mercado.jpg)
 
----
 
 ---
 
-## Autor
+### BTCLNAT
 
-**BTCLNAT**
+Sígueme en X: [https://x.com/delgadoamaran](https://x.com/delgadoamaran)  
+Sígueme en Stackers News: [https://stacker.news/BTCLNAT](https://stacker.news/BTCLNAT)  
 
- **X (Twitter):**
-- https://x.com/delgadoamaran
- 
- **Nostr:**
-- npub1dhttjg8sjk4arx0qywsu9s7c09sxagrz5kktvsl78dfqwy9erurqjfujxq
-- NIP05: BTCLN@btcpay.cubabitcoin.org
- 
- **Lightning Address:**
-- btclnat@lnbits.cubabitcoin.org
+Sígueme en Nostr:
+- npub1dhttjg8sjk4arx0qywsu9s7c09sxagrz5kktvsl78dfqwy9er
+- BTCLN@btcpay.cubabitcoin.org
+
+Regálame un cafecito con Lightning Network: btclnat@lnbits.cubabitcoin.org
