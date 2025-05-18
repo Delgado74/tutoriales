@@ -126,5 +126,6 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 **BTCLNAT**
 
 - **X (Twitter):** https://x.com/delgadoamaran  
-- **Nostr:** npub1dhttjg8sjk4arx0qywsu9s7c09sxagrz5kktvsl78dfqwy9erurqjfujxq  
+- **Nostr:** npub1dhttjg8sjk4arx0qywsu9s7c09sxagrz5kktvsl78dfqwy9erurqjfujxq
+             BTCLN@btcpay.cubabitcoin.org
 - **Lightning Address:** `btclnat@lnbits.cubabitcoin.org`
