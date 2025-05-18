@@ -1,20 +1,25 @@
 # Tutorial: Cómo usar la billetera AQUA
 
-AQUA es una billetera para Bitcoin y Liquid desarrollada por Jan3. Permite recibir y enviar BTC en la cadena principal, L-BTC y L-USDT, ambos tokens de la red Liquid. Además, también permite la recepción y envío de otros tokens de la red Liquid y USDT en al menos 4 cadenas más.
-
 ---
 
 ## Índice
 
-1. [Crear o restaurar una billetera](#crear-o-restaurar-una-billetera)
-2. [Interfaz principal y activos disponibles](#interfaz-principal-y-activos-disponibles)
-3. [Acceder a los ajustes de configuración](#acceder-a-los-ajustes-de-configuración)
-4. [Respaldo de la billetera (semilla)](#respaldo-de-la-billetera-semilla)
-5. [Recomendaciones sobre el respaldo](#recomendaciones-sobre-el-respaldo)
-6. [Intercambiar entre activos](#intercambiar-entre-activos)
-7. [Recibir fondos](#recibir-fondos)
-8. [Enviar fondos](#enviar-fondos)
-9. [Mercado](#mercado)
+1. [Introducción](#introducción)  
+2. [Crear o restaurar una billetera](#crear-o-restaurar-una-billetera)  
+3. [Interfaz principal y activos disponibles](#interfaz-principal-y-activos-disponibles)  
+4. [Acceder a los ajustes de configuración](#acceder-a-los-ajustes-de-configuración)  
+5. [Respaldo de la billetera (semilla)](#respaldo-de-la-billetera-semilla)  
+6. [Recomendaciones sobre el respaldo](#recomendaciones-sobre-el-respaldo)  
+7. [Intercambiar entre activos](#intercambiar-entre-activos)  
+8. [Recibir fondos](#recibir-fondos)  
+9. [Enviar fondos](#enviar-fondos)  
+10. [Mercado](#mercado)
+
+---
+
+## Introducción
+
+AQUA es una billetera para Bitcoin y Liquid desarrollada por [Jan3](https://jan3.com). Permite recibir y enviar BTC en la cadena principal, L-BTC y L-USDT, ambos tokens de la red Liquid. Además, también permite la recepción y envío de otros tokens de la red Liquid y USDT en al menos 4 cadenas más.
 
 ---
 
@@ -80,9 +85,7 @@ En los casos de Lightning y USDT en estas cadenas, AQUA realiza un **swap autom�
 - Los fondos recibidos por Lightning se convierten en **L-BTC**.
 - Los USDT recibidos en Ethereum, Tron, BSC o Polygon se convierten en **L-USDT**.
 
-
 ![Recibir fondos](./assets/images/aqua/recibir1.jpg)
-
 
 ---
 
@@ -116,3 +119,12 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 
 ---
 
+---
+
+## Autor
+
+**BTCLNAT**
+
+- **X (Twitter):** https://x.com/delgadoamaran  
+- **Nostr:** npub1dhttjg8sjk4arx0qywsu9s7c09sxagrz5kktvsl78dfqwy9erurqjfujxq  
+- **Lightning Address:** `btclnat@lnbits.cubabitcoin.org`
