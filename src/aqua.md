@@ -1,73 +1,22 @@
-# Tutorial: Cómo usar la billetera AQUA
+# Guía de uso de AQUA Wallet
 
 ---
 
 ## Índice
 
-1. [Introducción](#introducción)  
-2. [Crear o restaurar una billetera](#crear-o-restaurar-una-billetera)  
-3. [Interfaz principal y activos disponibles](#interfaz-principal-y-activos-disponibles)  
-4. [Acceder a los ajustes de configuración](#acceder-a-los-ajustes-de-configuración)  
-5. [Respaldo de la billetera (semilla)](#respaldo-de-la-billetera-semilla)  
-6. [Recomendaciones sobre el respaldo](#recomendaciones-sobre-el-respaldo)  
-7. [Intercambiar entre activos](#intercambiar-entre-activos)  
-8. [Recibir fondos](#recibir-fondos)  
-9. [Enviar fondos](#enviar-fondos)  
-10. [Mercado](#mercado)
+- [Introducción](#introducción)
+- [Recibir fondos](#recibir-fondos)
+- [Enviar fondos](#enviar-fondos)
+- [Mercado](#mercado)
+- [Conclusión](#conclusión)
+- [Recomendaciones](#recomendaciones)
+- [BTCLNAT](#btclnat)
 
 ---
 
 ## Introducción
 
-AQUA es una billetera para Bitcoin y Liquid desarrollada por [Jan3](https://jan3.com). Permite recibir y enviar BTC en la cadena principal, L-BTC y L-USDT, ambos tokens de la red Liquid. Además, también permite la recepción y envío de otros tokens de la red Liquid y USDT en al menos 4 cadenas más.
-
----
-
-## Crear o restaurar una billetera
-
-Al abrir la app AQUA por primera vez, verás dos opciones: **Crear billetera nueva** o **Restaurar billetera**. Si estás comenzando desde cero, selecciona "Crear billetera nueva".
-
-![Pantalla inicial de AQUA](./assets/images/aqua/inicio.jpg)
-
----
-
-## Interfaz principal y activos disponibles
-
-Una vez creada la billetera, la interfaz principal mostrará tus activos disponibles y su valor aproximado.
-
-![Interfaz con activos](./assets/images/aqua/iniciada.jpg)
-
----
-
-## Acceder a los ajustes de configuración
-
-Pulsa el ícono de engranaje en la parte inferior derecha para acceder a los ajustes. Aquí puedes configurar la moneda de referencia, habilitar funciones avanzadas, etc.
-
-![Ajustes de configuración](./assets/images/aqua/ajustes.jpg)
-
----
-
-## Respaldo de la billetera (semilla)
-
-Es muy importante hacer un respaldo de tu billetera. AQUA te mostrará una advertencia para que respaldes la frase semilla (de 12 palabras).
-
-![Respaldo de semilla](./assets/images/aqua/backup_frase.jpg)
-
----
-
-## Recomendaciones sobre el respaldo
-
-Antes de mostrarte la semilla, AQUA te brinda recomendaciones sobre cómo protegerla. Tómate este momento en serio.
-
-![Consejos para respaldar](./assets/images/aqua/backup_frase2.jpg)
-
----
-
-## Intercambiar entre activos
-
-AQUA permite intercambiar entre activos de la red Liquid, como L-BTC y L-USDT, directamente desde la app. Es una función útil si necesitas convertir tus fondos sin salir de la billetera. Actualmente, AQUA **no permite intercambiar BTC (on-chain)**, solo activos dentro de Liquid.
-
-![Intercambio entre activos](./assets/images/aqua/intercambiables.jpg)
+AQUA Wallet es una aplicación móvil desarrollada por el equipo de JAN3 que permite gestionar Bitcoin y activos digitales sobre la red Liquid de forma sencilla e intuitiva. Está disponible para Android y iOS, y está especialmente pensada para usuarios que buscan rapidez, bajo costo y una experiencia fluida sin complicaciones técnicas. Gracias a su integración con la red Lightning, múltiples cadenas para USDT, y el uso de swaps automáticos hacia Liquid, AQUA facilita recibir y enviar fondos de manera eficiente, incluso para quienes se están iniciando en el uso de criptomonedas. Su interfaz clara y su enfoque en la usabilidad convierten a AQUA en una excelente alternativa para pagos cotidianos, remesas y ahorro digital.
 
 ---
 
@@ -117,6 +66,29 @@ En la barra inferior central encontrarás el botón **Mercado**, que te da acces
 
 ![Mercado](./assets/images/aqua/mercado.jpg)
 
+---
+
+## Conclusión
+
+AQUA Wallet es una solución práctica, eficiente y segura para enviar, recibir y almacenar Bitcoin y USDT en diferentes redes, con una experiencia de usuario simplificada. Gracias a su enfoque en la red Liquid, logra ofrecer transacciones rápidas y económicas, ideales para pagos cotidianos y remesas.
+
+---
+
+## Recomendaciones
+
+AQUA Wallet y la red Liquid tienen muchas ventajas, pero no son adecuadas en todos los contextos. Considera las siguientes recomendaciones:
+
+### No usar AQUA Wallet si:
+
+- ❌ Necesitas **control absoluto sobre tu semilla** para restaurarla en otras wallets. AQUA no permite exportar la semilla a otras aplicaciones.
+- ❌ Requieres **interoperabilidad completa con otras billeteras Liquid** como Blockstream Green o Marina Wallet. AQUA está más cerrada al ecosistema JAN3.
+- ❌ Deseas operar con **hardware wallets**. AQUA está limitada a dispositivos móviles.
+
+### Casos donde sí brilla AQUA:
+
+- ✅ Usuarios nuevos que buscan facilidad de uso y bajo costo.
+- ✅ Personas que necesitan mover fondos rápidamente entre redes (Lightning ↔ Liquid ↔ Ethereum/Tron/BSC/Polygon).
+- ✅ Situaciones donde las comisiones altas de Bitcoin on-chain hacen inviables los pagos pequeños.
 
 ---
 
