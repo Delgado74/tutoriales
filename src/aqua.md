@@ -16,7 +16,7 @@
 
 ## Introducción
 
-AQUA Wallet es una aplicación móvil desarrollada por el equipo de JAN3 que permite gestionar Bitcoin y activos digitales sobre la red Liquid de forma sencilla e intuitiva. Está disponible para Android y iOS, y está especialmente pensada para usuarios que buscan rapidez, bajo costo y una experiencia fluida sin complicaciones técnicas. Gracias a su integración con la red Lightning, múltiples cadenas para USDT, y el uso de swaps automáticos hacia Liquid, AQUA facilita recibir y enviar fondos de manera eficiente, incluso para quienes se están iniciando en el uso de criptomonedas. Su interfaz clara y su enfoque en la usabilidad convierten a AQUA en una excelente alternativa para pagos cotidianos, remesas y ahorro digital.
+AQUA Wallet es una aplicación móvil desarrollada por el equipo de [JAN3](https://jan3.com) que permite gestionar Bitcoin y activos digitales sobre la red Liquid de forma sencilla e intuitiva. Está disponible para Android y iOS, y está especialmente pensada para usuarios que buscan rapidez, bajo costo y una experiencia fluida sin complicaciones técnicas. Gracias a su integración con la red Lightning, múltiples cadenas para USDT, y el uso de swaps automáticos hacia Liquid, AQUA facilita recibir y enviar fondos de manera eficiente, incluso para quienes se están iniciando en el uso de criptomonedas. Su interfaz clara y su enfoque en la usabilidad convierten a AQUA en una excelente alternativa para pagos cotidianos, remesas y ahorro digital.
 
 ---
 
