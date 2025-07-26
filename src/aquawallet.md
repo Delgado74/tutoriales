@@ -224,11 +224,7 @@ Los activos Liquid pueden enviarse a otras billeteras compatibles (Blockstream G
 
 <p align="center">  
   <img src="./assets/images/aqua/28.png" alt="aqua 28">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/26.png" alt="aqua 26">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/29.png" alt="aqua 29">  
 </p>
 
@@ -242,17 +238,9 @@ Los envíos de USDT en las distintas cadenas se hacen desde el saldo de USDT-Liq
 
 <p align="center">  
   <img src="./assets/images/aqua/30.png" alt="aqua 30">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/31.png" alt="aqua 31">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/32.png" alt="aqua 32">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/33.png" alt="aqua 33">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/34.png" alt="aqua 34">  
 </p>
 
@@ -262,8 +250,6 @@ La opción de escanear permite leer códigos QR o facturas en texto y la billete
 
 <p align="center">  
   <img src="./assets/images/aqua/41.png" alt="aqua 41">  
-</p>
-<p align="center">  
   <img src="./assets/images/aqua/42.png" alt="aqua 42">  
 </p>
 
