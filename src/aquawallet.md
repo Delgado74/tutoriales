@@ -81,25 +81,19 @@ Sin embargo, estas soluciones pueden crear una fricción inicial para nuevos usu
   <img src="./assets/images/aqua/2.png" alt="aqua 2">  
 </p>
 
-4. Después de creada debes dirigirte al botón de Ajustes.
+4. Después de creada debes dirigirte al botón de Ajustes → Configuración Avanzada → Ver Frase de Recuperación.
 
 <p align="center">  
   <img src="./assets/images/aqua/3.png" alt="aqua 3">  
 </p>
 
-5. Desplázate hasta Configuración Avanzada → Ver Frase de Recuperación.
+5. En la pantalla See Phrase click en Next para que se muestren las 12 palabras que debes **ANOTAR y GUARDAR**.
 
 <p align="center">  
   <img src="./assets/images/aqua/4.png" alt="aqua 4">  
 </p>
 
-6. En la pantalla See Phrase click en Next para que se muestren las 12 palabras que debes **ANOTAR y GUARDAR**.
-
-<p align="center">  
-  <img src="./assets/images/aqua/5.png" alt="aqua 5">  
-</p>
-
-7. ¡Listo! Ya tienes tu Billetera Aqua Creada.
+6. ¡Listo! Ya tienes tu Billetera Aqua Creada.
 
 ## 2.1 Interfaz en Aqua Wallet
 
@@ -116,7 +110,7 @@ Aquí se encuentran las opciones principales de gestión de la billetera:
 - **Pantalla central** → Muestra una Cuenta de Ahorros (Bitcoin Onchain) y la Cuenta Corriente (Activos Aqua).
 
 <p align="center">  
-  <img src="./assets/images/aqua/6.png" alt="aqua 6">  
+  <img src="./assets/images/aqua/5.png" alt="aqua 5">  
 </p>
 
 **2. Menú Mercado**
@@ -132,7 +126,7 @@ Después de escoger la Región tendrás acceso a las opciones provistas para la 
 - **My First Bitcoin:** acceso al libro de texto del diplomado Mi Primer Bitcoin en diferentes idiomas.
 
 <p align="center">  
-  <img src="./assets/images/aqua/10.png" alt="aqua 10">  
+  <img src="./assets/images/aqua/6.png" alt="aqua 6">  
 </p>
 
 **3. Menú Ajustes**
@@ -150,7 +144,7 @@ Aquí se muestran las opciones de ajustes de la billetera:
 - **Consigue Ayuda:** seleccionar entre soporte y preguntas frecuentes.
 
 <p align="center">  
-  <img src="./assets/images/aqua/11.png" alt="aqua 11">  
+  <img src="./assets/images/aqua/7.png" alt="aqua 7">  
 </p>
 
 **Configuración de Seguridad:**  
@@ -160,7 +154,7 @@ Se definen dos opciones:
 - **Passcode:** para utilizar esta opción debes introducir la Frase de Recuperación. De olvidar el Passcode, debes introducir la Frase de Recuperación para desbloquear la billetera.
 
 <p align="center">  
-  <img src="./assets/images/aqua/38.png" alt="aqua 38">  
+  <img src="./assets/images/aqua/8.png" alt="aqua 8">  
 </p>
 
 **Configuración Avanzada:**  
@@ -173,7 +167,7 @@ Se definen dos opciones:
 - **Eliminar billetera:** elimina la billetera completamente.
 
 <p align="center">  
-  <img src="./assets/images/aqua/39.png" alt="aqua 39">  
+  <img src="./assets/images/aqua/9.png" alt="aqua 9">  
 </p>
 
 ## 3 Usando Aqua Wallet
@@ -183,19 +177,19 @@ Se definen dos opciones:
 En este apartado podremos recibir Bitcoin en capa 1 (onchain), activos Liquid, Lightning Network y USDT en cinco cadenas diferentes.
 
 <p align="center">  
-  <img src="./assets/images/aqua/12.png" alt="aqua 12">  
+  <img src="./assets/images/aqua/10.png" alt="aqua 10">  
 </p>
 
 En el caso de Bitcoin Onchain será en direcciones Legacy. Se recibe en capa 1 si no está activado el Peg-in automático, de lo contrario se hace swap directo a L-BTC.
 
 <p align="center">  
-  <img src="./assets/images/aqua/15.png" alt="aqua 15">  
+  <img src="./assets/images/aqua/11.png" alt="aqua 11">  
 </p>
 
 Los activos Liquid incluyen fundamentalmente L-BTC (1:1 con Bitcoin) y L-USDT (1:1 con el USD). En Brasil también se utiliza DePix (1:1 con el BRL). Existen además otros activos vinculados al Peso Mexicano, Euro y Yen Japonés.
 
 <p align="center">  
-  <img src="./assets/images/aqua/13.png" alt="aqua 13">  
+  <img src="./assets/images/aqua/12.png" alt="aqua 12">  
 </p>
 
 En el caso de recibir por Lightning Network, se genera una factura Lightning. Aqua no utiliza Lightning Address, por lo que el pago se enruta mediante Boltz y los fondos se reciben como L-BTC.
@@ -203,7 +197,7 @@ En el caso de recibir por Lightning Network, se genera una factura Lightning. Aq
 Aqua también permite recibir USDT desde cinco cadenas: Ethereum (ERC20), Tron (TRC20), BSC, Polygon y Solana. Los fondos son automáticamente convertidos a USDT-Liquid, que no puede ser bloqueado por protocolo. Actualmente el proveedor del swap es automático, pero se planea permitir selección manual.
 
 <p align="center">  
-  <img src="./assets/images/aqua/14.png" alt="aqua 14">  
+  <img src="./assets/images/aqua/13.png" alt="aqua 13">  
 </p>
 
 ### 3.2 Enviar
@@ -211,37 +205,33 @@ Aqua también permite recibir USDT desde cinco cadenas: Ethereum (ERC20), Tron (
 Podrás enviar Bitcoin Onchain, activos Liquid, Bitcoin en Lightning Network y USDT en las mismas cinco cadenas mencionadas.
 
 <p align="center">  
-  <img src="./assets/images/aqua/40.png" alt="aqua 40">  
+  <img src="./assets/images/aqua/14.png" alt="aqua 14">  
 </p>
 
 Para Bitcoin Onchain se puede enviar directamente desde la "Cuenta de Ahorros" y hacer Peg-out desde L-BTC.
 
 <p align="center">  
-  <img src="./assets/images/aqua/25.png" alt="aqua 25">  
+  <img src="./assets/images/aqua/15.png" alt="aqua 15">  
 </p>
 
 Los activos Liquid pueden enviarse a otras billeteras compatibles (Blockstream Green, otra Aqua Wallet, CoinOS enviando L-BTC) o realizar intercambios entre ellos.
 
 <p align="center">  
-  <img src="./assets/images/aqua/28.png" alt="aqua 28">  
-  <img src="./assets/images/aqua/26.png" alt="aqua 26">  
-  <img src="./assets/images/aqua/29.png" alt="aqua 29">  
+  <img src="./assets/images/aqua/16.png" alt="aqua 16">  
+  <img src="./assets/images/aqua/17.png" alt="aqua 17">  
+  <img src="./assets/images/aqua/18.png" alt="aqua 18">  
 </p>
 
 El envío por Lightning se realiza pagando una factura Lightning desde el saldo de L-BTC mediante un swap inverso, con una comisión base de 50 satoshis, más fees de swap y enrutamiento.
 
 <p align="center">  
-  <img src="./assets/images/aqua/27.png" alt="aqua 27">  
+  <img src="./assets/images/aqua/19.png" alt="aqua 19">  
 </p>
 
 Los envíos de USDT en las distintas cadenas se hacen desde el saldo de USDT-Liquid, pagando las tarifas correspondientes.
 
 <p align="center">  
-  <img src="./assets/images/aqua/30.png" alt="aqua 30">  
-  <img src="./assets/images/aqua/31.png" alt="aqua 31">  
-  <img src="./assets/images/aqua/32.png" alt="aqua 32">  
-  <img src="./assets/images/aqua/33.png" alt="aqua 33">  
-  <img src="./assets/images/aqua/34.png" alt="aqua 34">  
+  <img src="./assets/images/aqua/20.png" alt="aqua 20">  
 </p>
 
 ### 3.3 Escanear
@@ -249,8 +239,9 @@ Los envíos de USDT en las distintas cadenas se hacen desde el saldo de USDT-Liq
 La opción de escanear permite leer códigos QR o facturas en texto y la billetera detecta automáticamente el activo y la cadena para enviar.
 
 <p align="center">  
-  <img src="./assets/images/aqua/41.png" alt="aqua 41">  
-  <img src="./assets/images/aqua/42.png" alt="aqua 42">  
+  <img src="./assets/images/aqua/21.png" alt="aqua 21">
+  <img src="./assets/images/aqua/22.png" alt="aqua 22">
+  <img src="./assets/images/aqua/23.png" alt="aqua 23">  
 </p>
 
 ## 4 Accediendo a Aqua Wallet desde Cuba
@@ -307,7 +298,7 @@ Si cuentas con el conocimiento, recursos e infraestructura, considera también l
 Aqua Wallet es un puente útil para avanzar hacia esa meta.
 
 <p align="center">  
-  <img src="./assets/images/aqua/45.png" alt="aqua 45">  
+  <img src="./assets/images/aqua/24.png" alt="aqua 24">  
 </p>
 
 ---
@@ -320,8 +311,8 @@ Aqua Wallet es un puente útil para avanzar hacia esa meta.
   - NIP05: `BTCLN@btcpay.cubabitcoin.org`
 
 ☕ **Regálame un cafecito con Lightning Network:**  
-`btclnat@lnbits.cubabitcoin.org`
+`btclnat@lachispa.me`
 
 <p align="center">  
-  <img src="./assets/images/aqua/44.png" alt="aqua 44">  
+  <img src="./assets/images/aqua/25.png" alt="aqua 25">  
 </p>
